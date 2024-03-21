@@ -47,6 +47,7 @@
 			<artifactId>spring-boot-starter-jdbc</artifactId>
 			<version>3.2.3</version>
 		</dependency>
+
 		<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-devtools -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -54,10 +55,7 @@
 			<version>3.2.3</version>
 		</dependency>
 
-
 	</dependencies>
-
-			
 
 	<build>
 		<plugins>
